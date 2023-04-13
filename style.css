@@ -1,0 +1,20 @@
+.map {
+    height: 500px;
+    width: 700px;
+}
+
+#popup {
+    background-color: white;
+    padding: 10px;
+}
+
+.contenedor {
+    display: flex;
+    height: 20px;
+    align-items: center;
+    padding: 10px;
+}
+
+.contenedor>* {
+    margin: 10px
+}
